@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwari Kanagaraj</h1>
 <h3 align="center">A passionate IoT and Embedded developer from India</h3>
 
-<img align="right" alt="Learning" width="957" height="334" scr="https://i0.wp.com/www.iasexpress.net/wp-content/uploads/2018/12/iot-cover-image-min.gif?ssl=1">
+<img src="https://i0.wp.com/www.iasexpress.net/wp-content/uploads/2018/12/iot-cover-image-min.gif?ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarikanagaraj" /> </p>
 
