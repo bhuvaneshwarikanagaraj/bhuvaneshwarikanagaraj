@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhuvaneshwari Kanagaraj</h1>
 <h3 align="center">A passionate IoT and Embedded developer from India</h3>
 
+<img align="right" alt="learning" width="400" scr="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarikanagaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwarikanagaraj" alt="bhuvaneshwarikanagaraj" /></a> </p>
