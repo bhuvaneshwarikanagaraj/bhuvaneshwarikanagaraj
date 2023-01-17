@@ -5,9 +5,6 @@
 
 <img src="https://i0.wp.com/www.iasexpress.net/wp-content/uploads/2018/12/iot-cover-image-min.gif?ssl=1">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarikanagaraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwarikanagaraj" alt="bhuvaneshwarikanagaraj" /></a> </p>
 
 - 🔭 I’m currently working on [Looming Machine Automation](https://github.com/bhuvaneshwarikanagaraj/LoomingMachine_Automation)
 
@@ -24,6 +21,11 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Wbn2gBiHaquWJArziRGmMIWx0ZCToetY](https://drive.google.com/drive/folders/1Wbn2gBiHaquWJArziRGmMIWx0ZCToetY)
 
 - ⚡ Want to learn Electronics? **https://www.youtube.com/channel/UC7M6FPwjsv-hesKqjJS8N5g**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarikanagaraj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwarikanagaraj" alt="bhuvaneshwarikanagaraj" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
