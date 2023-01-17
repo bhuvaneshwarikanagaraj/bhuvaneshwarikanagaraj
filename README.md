@@ -24,11 +24,6 @@
 <a href="https://linkedin.com/in/bhuvaneshwari-kanagaraj-53b7681b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvaneshwari-kanagaraj-53b7681b2" height="30" width="40" /></a>
   
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17761356/bhuvaneshwari-kanagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17761356/bhuvaneshwari-kanagaraj" height="30" width="40" /></a>
-  
-<a href="https://instagram.com/bhuvaneshwari__kanagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhuvaneshwari__kanagaraj" height="30" width="40" /></a>
-  
-<a href="https://medium.com/@bhuvaneshwarii026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhuvaneshwarii026" height="30" width="40" /></a>
-  
 
 
 <h3 align="left">Languages and Tools:</h3>
