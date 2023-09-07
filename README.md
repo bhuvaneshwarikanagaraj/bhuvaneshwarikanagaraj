@@ -8,12 +8,8 @@
 - 💬 Ask me about **Anything related to IoT protocols or different architecture from AVR to ARM**
 - 📫 How to reach me **bhuvaneshwarii026@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Wbn2gBiHaquWJArziRGmMIWx0ZCToetY](https://drive.google.com/drive/folders/1Wbn2gBiHaquWJArziRGmMIWx0ZCToetY)
-- ⚡ Want to learn Electronics? **https://www.youtube.com/channel/UC7M6FPwjsv-hesKqjJS8N5g**
+- ⚡ Want to learn Electronics? **https://www.youtube.com/channel/UC7M6FPwjsv-hesKqjJS8N5g
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshwarikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshwarikanagaraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwarikanagaraj" alt="bhuvaneshwarikanagaraj" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
